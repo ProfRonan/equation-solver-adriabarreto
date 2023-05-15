@@ -31,7 +31,7 @@ else:
                 print("A equação não possui raízes reais")
             else:
                 if determinante == 0:
-                    print("A equação possui apenas uma raiz real")
+                    print("A equação possui uma raiz real")
                     print(f'x = {raiz2:.2f}')
                     
                 elif determinante > 0:
